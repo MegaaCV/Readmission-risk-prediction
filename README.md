@@ -54,6 +54,7 @@ Model Training & Evaluation – Train the model and evaluate using multiple metr
 Prediction – Classify new patient data as Readmitted (1) or Not Readmitted (0).
 
 # **📊 Results**
+<img width="837" height="391" alt="image" src="https://github.com/user-attachments/assets/2a0f9af0-1f93-4542-a021-210ffe211fe1" />
 
 Model Accuracy Improved by 6.7% after hyperparameter tuning.
 
